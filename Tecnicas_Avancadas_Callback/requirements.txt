@@ -1,0 +1,7 @@
+streamlit
+plotly-express
+matplotlib
+seaborn
+dash
+pandas
+kagglehub
