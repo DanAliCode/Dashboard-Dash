@@ -4,4 +4,4 @@ matplotlib
 seaborn
 dash
 pandas
-kagglehub
+numpy
